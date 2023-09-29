@@ -8,7 +8,7 @@
 
  <p>HTML Basic Document Structure | Elements | Headings | Images | Links | Elements | Lists | Table | Forms</p>
 
-<p>Estrutura Básica do Documento em HTML | Elementos | Hierarquia de Tútulos |Imagens | Links | Elementos | Listas | Tabela | Formulários</p>
+<p>Estrutura Básica do Documento em HTML | Elementos | Cabeçalho | Imagens | Links | Elementos | Listas | Tabela | Formulários</p>
 
 <h2>Projects (Projetos)</h2>
 

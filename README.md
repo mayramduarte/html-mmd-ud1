@@ -1,6 +1,6 @@
 # html-mmd-ud1
 
-<h1> Course HTML and CSS Tutorial and Projects Course (Flexbox and Grid) - Udemy - John Smilga</h1>
+<h1> Course - HTML and CSS Tutorial and Projects Course (Flexbox and Grid) - Udemy - John Smilga</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
